@@ -88,3 +88,4 @@ for user in user_name_list:
         button=chrome_browser.find_element_by_xpath('//button[@class="_35EW6"]')
         #click the send button
         button.click()
+        
